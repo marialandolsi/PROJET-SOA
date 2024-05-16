@@ -2,7 +2,7 @@ const express = require("express");
 const mongoose = require("mongoose");
 const bodyParser = require("body-parser");
 
-// Kafka
+// Kafka Connect
 const { connectProducer, sendMessage } = require("./kafkaProducer");
 const { consumeMessages } = require("./kafkaConsumer");
 
