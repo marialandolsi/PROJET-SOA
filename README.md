@@ -1,5 +1,5 @@
 # Project Title : < PROJET SOA >
-# Authors: < Hayder Guedhami && Maryam Landolsi > 
+# Authors: <Maryam Landolsi && Hayder Guedhami   > 
 
 # Microservices Architecture
 (![alt text](<Microservices Architecture.jpg>))
